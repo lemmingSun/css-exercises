@@ -1,1 +1,18 @@
 /* Add CSS Styling */
+p{
+    color: #ffb6c1;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+#_oneidis_{
+    color:#0000ff;
+    font-size: 36px;
+}
+
+._coolerclass_{
+    font-size: 24px;
+}
+#_oneanotherid_{
+    background: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
